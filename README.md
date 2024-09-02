@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Advanced-Developemt
+- 🌱 I’m currently learning c# 
